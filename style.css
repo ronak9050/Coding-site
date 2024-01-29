@@ -1,0 +1,49 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#navbar{
+    background-color: #0B0510;
+    padding: 15px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+#navbar a{
+    text-decoration: none;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+#navbar a:hover{
+    background-color: #36454F;
+}
+
+#navbar img{
+    width: 150px;
+    height: auto;
+    /* margin-right: auto; */
+    position: absolute;
+    left: 0px;
+    margin-left: 3%;
+}
+
+#profile_link{
+    /* margin-left: auto; */
+    position: absolute;
+    right: 0px;
+    margin-right: 2%;
+}
+
+
+
+
+
+
+
